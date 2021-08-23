@@ -1,7 +1,7 @@
 name: animate_progress_button
 description: A new Flutter package project.
 version: 0.0.1
-homepage:
+homepage: git remote add origin https://github.com/mdeghad/animate_progressbar.git
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
